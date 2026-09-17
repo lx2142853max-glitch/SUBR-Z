@@ -6,6 +6,21 @@ assets.zip
 *.apk
 *.keystore
 
+# Unity generated (keep Assets/Scripts + Docs in git)
+UnityProject/[Ll]ibrary/
+UnityProject/[Tt]emp/
+UnityProject/[Oo]bj/
+UnityProject/[Bb]uild/
+UnityProject/[Bb]uilds/
+UnityProject/[Ll]ogs/
+UnityProject/[Uu]ser[Ss]ettings/
+UnityProject/*.csproj
+UnityProject/*.sln
+UnityProject/*.suo
+UnityProject/*.user
+UnityProject/MemoryCaptures/
+UnityProject/Recordings/
+
 # OS / editor
 .DS_Store
 Thumbs.db
